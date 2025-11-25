@@ -193,6 +193,6 @@ Autentica al usuario y devuelve el token.
 ---
 
 ## Contacto y Soporte
-Para dudas o incidencias: [Soporte Técnico SID](mailto:jira@lapem01.atlassian.net)
+Para dudas o incidencias: [Soporte Técnico SID](mailto:soportelapem@cfe.mx)
 
 ---
